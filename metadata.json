@@ -1,0 +1,6 @@
+{
+  "name": "ePerfumeStore Invercargill",
+  "description": "ePerfumeStore - Pure perfume oils, alcohol-free perfumes, and luxury brand-inspired fragrances based in Invercargill, NZ. Free delivery NZ wide with no minimum spend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
